@@ -1,0 +1,21 @@
+{
+  "nome": "Dani",
+  "idade": 27,
+  "endereco": {
+    "rua": "Rua das maravilhas",
+    "numero": "2"
+  },
+  "interessses": [
+    {
+      "tipo": "esportes",
+      "nome": "corrida",
+      "campeonatos": [
+        "maratona sao silvestre"
+      ]
+    },
+    {
+      "tipo": "gastronomia",
+      "nome": "comida italiana"
+    }
+  ]
+}
